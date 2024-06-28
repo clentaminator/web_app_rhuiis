@@ -1,11 +1,14 @@
-# RHUIIS
-Rural Health Unit Immunization Information System
+# RHUIIS - Rural Health Unit Immunization Information System
 
-Disclaimer
+The Infant Mortality Rate (IMR) and other mortality indices are vital indicators of a region's general health status. High infant mortality rates indicate unmet needs in cleanliness, medical care, nutrition, and education. Immunization is crucial for public health, preventing millions of deaths annually from diseases like measles, diphtheria, and tetanus. In the Philippines, timely vaccination is a challenge, with significant delays observed, highlighting the need for improved immunization systems, such as the proposed "Rural Health Unit Immunization Information System" that aims to streamline and digitize vaccination processes for better management and accessibility.
 
-This system project and its corresponding documentation entitled “Rural Health Unit Immunization Information System with Vaccination Demand Allocation, Forecasting, and Scheduling” is submitted to the College of Information and Communications Technology, West Visayas State University, in partial fulfillment of the requirements for the degree, Bachelor of Science in Information Systems. It is the product of our own work, except were indicated text.
+The main objective of this study is to develop Rural Health Unit Immunization Information System with Vaccination Demand Allocation, Forecasting and Scheduling.
 
-We hereby grant the College of Information and Communications Technology permission to freely use, publish in local or international journal/conferences, reproduce, or distribute publicly the paper and electronic copies of this software project and its corresponding documentation in whole or in part, provided that we are acknowledged.
+>Develop a registration module for the RHU Immunization.
+>Develop an immunization coverage forecasting system.
+>Develop an allocation module to avoid wastage of the vaccines.
+>Evaluate the system based on ISO 25010.
+
 
 Copyright ©2024 
 
