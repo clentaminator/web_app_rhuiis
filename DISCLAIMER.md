@@ -4,13 +4,9 @@ We hereby grant the College of Information and Communications Technology permiss
 
 
 SHAYNA BLAISE LORENE L. ANTENORIO
-
 EFAYRA S. COMPRENDIO
-
 ANSELM P. EMBOLTORIO
-
 JUSTIN CESAR G. GALAROSA
-
 FRANKIE S. SUSTIGUER
 
 
