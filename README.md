@@ -18,7 +18,6 @@ Each one of the objectives were successfully tackled, and given solutions
 Folders
 
     /src
-    /IotracerWebApp - Frontend
-    /Thesis - Backend
-    /db - Database and Sql File
+    /config
+    /doc
 
