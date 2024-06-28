@@ -8,4 +8,4 @@ Anselm P. Emboltorio <br>
 Justin Cesar G. Galarosa <br>
 Frankie S. Sustiguer <br>
 
-&copy;2024
+2024
