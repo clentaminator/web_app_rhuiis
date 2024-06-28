@@ -3,10 +3,15 @@ This system project and its corresponding documentation entitled “Rural Health
 We hereby grant the College of Information and Communications Technology permission to freely use, publish in local or international journal/conferences, reproduce, or distribute publicly the paper and electronic copies of this software project and its corresponding documentation in whole or in part, provided that we are acknowledged.
 
 
-SHAYNA BLAISE LORENE L. ANTENORIO<br>
-EFAYRA S. COMPRENDIO<br>
-ANSELM P. EMBOLTORIO<br>
-JUSTIN CESAR G. GALAROSA<br>
-FRANKIE S. SUSTIGUER<br>
-<br>
+SHAYNA BLAISE LORENE L. ANTENORIO
+
+EFAYRA S. COMPRENDIO
+
+ANSELM P. EMBOLTORIO
+
+JUSTIN CESAR G. GALAROSA
+
+FRANKIE S. SUSTIGUER
+
+
 &copy;2024
