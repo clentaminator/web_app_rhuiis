@@ -12,6 +12,12 @@ The main objective of this study is to develop Rural Health Unit Immunization In
    
    >Evaluate the system based on ISO 25010.
 
+Each one of the objectives were successfully tackled, and given solutions
 
-Copyright ©2024 
+Folders
+
+    /src
+    /IotracerWebApp - Frontend
+    /Thesis - Backend
+    /db - Database and Sql File
 
