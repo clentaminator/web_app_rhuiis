@@ -4,13 +4,13 @@
 
 The main objective of this study is to develop Rural Health Unit Immunization Information System with Vaccination Demand Allocation, Forecasting and Scheduling.
 
-    >Develop a registration module for the RHU Immunization.
+   >Develop a registration module for the RHU Immunization.
     
-    >Develop an immunization coverage forecasting system.
-    
-    >Develop an allocation module to avoid wastage of the vaccines.
-    
-    >Evaluate the system based on ISO 25010.
+   >Develop an immunization coverage forecasting system.
+   
+   >Develop an allocation module to avoid wastage of the vaccines.
+   
+   >Evaluate the system based on ISO 25010.
 
 
 Copyright ©2024 
